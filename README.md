@@ -11,5 +11,5 @@ Stacked_features: https://uconn-my.sharepoint.com/:u:/r/personal/victor_oladoja_
 
 Stacked_targets: https://uconn-my.sharepoint.com/:u:/r/personal/victor_oladoja_uconn_edu/Documents/NAIRR/stacked_targets.npy?csf=1&web=1&e=ro1j6Q
 
-Note: the directories used in the scripts might net be correct
+Note: the directories used in the scripts might not be correct
 
