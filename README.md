@@ -1,5 +1,8 @@
 # temporal_graphML_4_streams
 
+Helper script for converting ATS outputs to ML input and target format is listed in "scripts/input and output workflow.ipynb"
+Helper script for visualizing errors is listed in "scripts/error_visual.ipynb"
+
 Please note that the requirements.txt is for the CEREBRAS HPC
 
 you can download files from :
